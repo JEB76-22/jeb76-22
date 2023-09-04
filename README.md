@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-comerce**
 
-- 🌱 I’m currently learning **JavaScript en Udemy. esc Newton**
+- 🌱 I’m currently learning **Hola soy Jeb&Dev soy autodidacta desde el 2020, estoy aprendiendo JavaScript en Udemy y tambien en ESc Newton, desarrollo Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JEB76-22](https://github.com/JEB76-22)
 
