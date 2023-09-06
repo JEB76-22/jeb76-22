@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier E Berchtold</h1>
+<h1 align="center">Hi 👋, I'm Jeb&Dev</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 - 🔭 I’m currently working on **E-comerce**
