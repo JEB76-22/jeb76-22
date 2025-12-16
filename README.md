@@ -2,6 +2,25 @@
   align="center">¡Hola! Soy Javier Berchtold
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
 </h1>
+
+<div id="badges" align="center">
+  <a href="mailto:alishandev@proton.me">
+    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
+  </a>
+  <a href="https://t.me/al3shan">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://al3sha9.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
+  </a>
+  <a href="https://twitter.com/alishxn_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
+</div>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina.</h3>
 
 - 🔭 I’m currently working on [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
