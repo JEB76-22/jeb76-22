@@ -1,4 +1,7 @@
-<h1 align="center">¡Hola! 👋, Soy Jeb&Dev</h1>
+<h1
+  align="center">¡Hola! Soy Javier Berchtold
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 - 🔭 I’m currently working on [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
