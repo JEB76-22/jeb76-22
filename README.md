@@ -56,7 +56,7 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
 </div>
-
+	<img src="	https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/>
 
 
 
