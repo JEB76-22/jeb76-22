@@ -4,16 +4,16 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
+  <a href="mailto:j.e.b.inter@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://t.me/al3shan">
+  <a href="#">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://al3sha9.github.io/portfolio/">
+  <a href="#">
     <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/alishxn_">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -23,23 +23,23 @@
 </div>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina.</h3>
 
-- 🔭 I’m currently working on [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
+- 🔭 Actualmente estoy trabajando en: [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
 
-- 🌱 I’m currently learning **Desarrollo Web Completo con HTML5,Master en CSS3 Avanzado: Maqueta 3 sitios web profesionales Master en JavaScript: Aprender JS, jQuery, Angular, NodeJSC, SS3, JS AJAX PHP y MySQL**
+- 🌱 Actualmente estoy aprendiendo: **Desarrollo Web Completo con HTML5,Master en CSS3 Avanzado: Maqueta 3 sitios web profesionales Master en JavaScript: Aprender JS, jQuery, Angular, NodeJSC, SS3, JS AJAX PHP y MySQL**
 
-- 👯 I’m looking to collaborate on [personalWeb](https://github.com/JEB76-22/personal-web.git)
+- 👯 Estoy buscando colaborar en:[personalWeb](https://github.com/JEB76-22/personal-web.git)
 
-- 🤝 I’m looking for help with [freelancer-inicio](https://github.com/JEB76-22/freelancer-inicio.git)
+- 🤝 Estoy buscando ayuda con: [freelancer-inicio](https://github.com/JEB76-22/freelancer-inicio.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JEB76-22](https://github.com/JEB76-22)
+- 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/JEB76-22](https://github.com/JEB76-22)
 
-- 💬 Ask me about **HTML CSS proyectos basicos**
+- 💬 Pregúntame sobre:**HTML, CSS, Javascript, proyectos basicos**
 
-- 📫 How to reach me **j.e.b.inter@gmail.com**
+- 📫 Cómo contactarme:**j.e.b.inter@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/JEB76-22/personal,https://github.com/JEB76-22/pizzeria-bootstrap.git-web.git](https://github.com/JEB76-22/personal,https://github.com/JEB76-22/pizzeria-bootstrap.git-web.git)
+- 📄 Conoce mis experiencias: [Repositorios](https://github.com/JEB76-22?tab=repositories)
 
-- ⚡ Fun fact **I love creating new projects every day.**
+- ⚡ Dato curioso: **Me gusta crear nuevas web epicas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,43 +68,14 @@
 
 
 
-<div id="hey" align="center">
-  <h1>
-    Hi!
-    I'm Ali Shan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>
-
-<div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  <a href="https://t.me/al3shan">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://al3sha9.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  <a href="https://twitter.com/alishxn_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
 
 
-## :man_technologist: About Me:
-As a seasoned web developer with expertise in HTML, CSS, JavaScript, React, Git, and Jest testing, I have honed my skills through hands-on experience in various organizations. Having worked as a web developer in two companies, I bring a wealth of knowledge and practical insights to my current role as a blockchain developer. In my current position, I am working on cutting-edge blockchain technologies like Cardano and Algorand Defi Projects, which has allowed me to expand my skill set and stay at the forefront of the latest advancements in the industry. I am passionate about using my skills to create innovative solutions that drive business growth and help organizations achieve their objectives.
 
-As a 19-year-old university student studying Software Engineering, I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
 
-- 🔭 I’m currently working on DeFi Project on Cardano.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols, Testing, Solidity etc.
-- 💬 ping me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [alishandev@proton.me](mailto:alishandev@proton.me), you can also contact me from my [website](https://al3sha9.github.io/portfolio/).
+
+
+
+
 
 
 ## :hammer_and_wrench: Languages and Tools:
@@ -137,5 +108,5 @@ As a 19-year-old university student studying Software Engineering, I am enthusia
 
 Credit: [al3sha9](https://github.com/al3sha9)
 
-Last Edited on: 3/7/2023
+Última edición: 16/12/2025
 
