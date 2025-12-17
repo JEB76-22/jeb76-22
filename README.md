@@ -21,7 +21,7 @@
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
 </div>
-<h3 align="center">Un apasionado desarrollador frontend de Argentina.</h3>
+<h3 align="center">Un apasionado desarrollador front end.</h3>
 
 - 🔭 Actualmente estoy trabajando en: [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
 
