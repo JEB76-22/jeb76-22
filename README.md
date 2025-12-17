@@ -23,23 +23,23 @@
 </div>
 <h3 align="center">Un apasionado desarrollador front end.</h3>
 
-- 🔭 Actualmente estoy trabajando en: [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
+🔭 Actualmente estoy trabajando en: [VistualStore (e-comerce)](https://github.com/JEB76-22/VirtualStoreweb.git)
 
-- 🌱 Actualmente estoy aprendiendo: **Desarrollo Web Completo con HTML5,Master en CSS3 Avanzado: Maqueta 3 sitios web profesionales Master en JavaScript: Aprender JS, jQuery, Angular, NodeJSC, SS3, JS AJAX PHP y MySQL**
+🌱 Actualmente estoy aprendiendo: **Desarrollo Web Completo con HTML5,Master en CSS3 Avanzado: Maqueta 3 sitios web profesionales Master en JavaScript: Aprender JS, jQuery, Angular, NodeJSC, SS3, JS AJAX PHP y MySQL**
 
-- 👯 Estoy buscando colaborar en:[personalWeb](https://github.com/JEB76-22/personal-web.git)
+👯 Estoy buscando colaborar en:[personalWeb](https://github.com/JEB76-22/personal-web.git)
 
-- 🤝 Estoy buscando ayuda con: [freelancer-inicio](https://github.com/JEB76-22/freelancer-inicio.git)
+🤝 Estoy buscando ayuda con: [freelancer-inicio](https://github.com/JEB76-22/freelancer-inicio.git)
 
-- 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/JEB76-22](https://github.com/JEB76-22)
+👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/JEB76-22](https://github.com/JEB76-22)
 
-- 💬 Pregúntame sobre:**HTML, CSS, Javascript, proyectos basicos**
+💬 Pregúntame sobre:**HTML, CSS, Javascript, proyectos basicos**
 
-- 📫 Cómo contactarme:**j.e.b.inter@gmail.com**
+📫 Cómo contactarme:**j.e.b.inter@gmail.com**
 
-- 📄 Conoce mis experiencias: [Repositorios](https://github.com/JEB76-22?tab=repositories)
+📄 Conoce mis experiencias: [Repositorios](https://github.com/JEB76-22?tab=repositories)
 
-- ⚡ Dato curioso: **Me gusta crear nuevas web epicas**
+⚡ Dato curioso: **Me gusta crear nuevas web epicas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
